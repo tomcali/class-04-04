@@ -1,0 +1,4 @@
+// note default parameter values
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
+
+// http://adripofjavascript.com/blog/drips/default-parameters-in-javascript.html
